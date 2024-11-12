@@ -2,6 +2,8 @@ How to install
 
 extract files
 
+run the exe
+
 Click on the .py file and run the program
 
 add your webhook
